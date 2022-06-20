@@ -6,7 +6,7 @@ This project is a space themed animated goodle doodle made with javascript and t
 
 [View Google Doodle!](https://cesar-martinez-google-doodle.netlify.app/)
 
-![Google doodle](GoogleDooddle.png)
+![Google doodle](GoogleDoodle.png)
 
 ## Resources
 
